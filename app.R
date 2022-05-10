@@ -48,4 +48,4 @@ server <- function(input, output) {
 # Run the application 
 shinyApp(ui = ui, server = server)
 
-# My learning one file app
+# Setting up git repo for My learning one file app
