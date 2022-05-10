@@ -52,3 +52,5 @@ shinyApp(ui = ui, server = server)
 
 ## Yipee! my first git commit and reset done
 # will start adding details about descriptive statistics
+
+# done!!
