@@ -49,3 +49,5 @@ server <- function(input, output) {
 shinyApp(ui = ui, server = server)
 
 # Setting up git repo for 'My learning' using one file app
+
+## Yipee! my first git commit and reset done
